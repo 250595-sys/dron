@@ -34,6 +34,8 @@ This repository contains an automated flight control program developed in **TRIK
 2. Select File > Open and open the `.qrs` project file.
 3. Switch to the Robot's Behaviour Diagram tab.
 4. Click the green Play button (or press `Ctrl + R`) to launch the 2D simulator or transmit the code to your connected Pioneer quadcopter over Wi-Fi.
+5. 
+Figure 1: TRIK Studio visual block diagram for autonomous flight control and RGB LED status telemetry on a Geoscan Pioneer quadcopter.
 
    <img width="1221" height="1012" alt="Screenshot 2026-09-13 183547" src="https://github.com/user-attachments/assets/a22ac819-11b8-4d03-9795-4eb839b6a1bd" />
 
